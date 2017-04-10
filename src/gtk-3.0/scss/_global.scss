@@ -23,7 +23,7 @@ $green: #859900;
 // default color scheme
 $bg_color: if($variant == "dark", $base02, $base2);
 $fg_color: if($variant == "dark", $base1, $base01);
-$base_color: if($variant == "dark", $base02, $base2
+$base_color: if($variant == "dark", $base02, $base2);
 $text_color: if($variant == "dark", $base1, $base01);
 $selected_bg_color: $cyan;
 $selected_fg_color: $base2;
